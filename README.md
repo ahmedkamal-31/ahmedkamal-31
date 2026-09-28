@@ -2,28 +2,25 @@
 
 # 👋 Hi, I'm Ahmed Kamal
 
-### 💻 Junior .NET Developer
+### Junior .NET Developer
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Always+Learning+%26+Improving"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=750&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Learning+%26+Improving+Every+Day" alt="Typing SVG" />
 
-<p>
-  <a href="https://portfolio-kappa-lake-83.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-512BD4?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-kamal-135b8b353/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ahmedkamal-31">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedkamal-31&label=Profile%20Views&color=512BD4&style=for-the-badge" alt="Profile Views" />
+<a href="https://portfolio-kappa-lake-83.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-512BD4?style=for-the-badge" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ahmed-kamal-135b8b353/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ahmedkamal-31">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahmedkamal-31&label=Profile%20Views&color=512BD4&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -33,7 +30,7 @@
 
 I'm a **Computer Science student at Assiut University** and a Junior .NET Developer focused on building practical and maintainable web applications.
 
-I mainly work with **ASP.NET Core, C#, Entity Framework Core, SQL Server, and REST APIs**, while continuously improving my frontend and full-stack development skills.
+My main focus is backend and full-stack development using **C#, ASP.NET Core, Entity Framework Core, SQL Server, and REST APIs**, while also building modern frontend interfaces with **React and TypeScript**.
 
 I enjoy turning ideas into real applications and working with:
 
@@ -46,32 +43,34 @@ I enjoy turning ideas into real applications and working with:
 
 ---
 
-## 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,java,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,ts,html,css" alt="Languages" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
 </p>
 
-**Backend**
+`ASP.NET Core` · `ASP.NET Core MVC` · `Entity Framework Core` · `REST APIs` · `ASP.NET Identity` · `LINQ`
 
-`ASP.NET Core MVC` · `ASP.NET Core Web API` · `Entity Framework Core` · `REST APIs` · `ASP.NET Identity`
-
-**Database**
-
-`SQL Server` · `MySQL` · `LINQ`
-
-### 🛠️ Tools
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</p>
+
+`SQL Server` · `MySQL`
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,vite" alt="Tools" />
 </p>
 
 ---
@@ -83,55 +82,61 @@ I enjoy turning ideas into real applications and working with:
 
 <td width="50%" valign="top">
 
-## 🚗 Luxury Car Rental
+<h2>🚗 Luxury Car Rental</h2>
 
-A premium car rental web application built with **ASP.NET Core MVC**.
+<p>
+A premium car rental web application built with ASP.NET Core MVC.
+</p>
 
-### Features
+<h4>Features</h4>
 
-* 🚘 Car management
-* 📅 Booking system
-* 🛠️ Admin dashboard
-* 🖼️ Image management
-* 🔐 Authentication & authorization
-* 👤 Customer booking management
+<ul>
+<li>🚘 Car management</li>
+<li>📅 Booking system</li>
+<li>🛠️ Admin dashboard</li>
+<li>🖼️ Image management</li>
+<li>🔐 Authentication & authorization</li>
+<li>👤 Customer booking management</li>
+</ul>
 
-**Tech Stack**
-
-`C#` · `ASP.NET Core MVC` · `EF Core` · `SQL Server` · `Identity`
-
-<br>
+<p>
+<b>Tech:</b><br/>
+C# · ASP.NET Core MVC · EF Core · SQL Server · Identity
+</p>
 
 <a href="https://github.com/ahmedkamal-31/Luxury-Car-Rental">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Luxury Car Rental Repository" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📱 Mobile Store
+<h2>📱 Mobile Store</h2>
 
+<p>
 An e-commerce platform for managing and selling mobile phones.
+</p>
 
-### Features
+<h4>Features</h4>
 
-* 📦 Product management
-* 👨‍💼 Seller portal
-* 🔐 Role-based authorization
-* 🔎 Product search
-* ✏️ CRUD operations
-* 🔔 Notifications
-* 👤 Seller-specific products
+<ul>
+<li>📦 Product management</li>
+<li>👨‍💼 Seller portal</li>
+<li>🔐 Role-based authorization</li>
+<li>🔎 Product search</li>
+<li>✏️ CRUD operations</li>
+<li>🔔 Notifications</li>
+<li>👤 Seller-specific products</li>
+</ul>
 
-**Tech Stack**
-
-`C#` · `ASP.NET Core MVC` · `EF Core` · `SQL Server` · `Identity`
-
-<br>
+<p>
+<b>Tech:</b><br/>
+C# · ASP.NET Core MVC · EF Core · SQL Server · Identity
+</p>
 
 <a href="https://github.com/ahmedkamal-31/mobile-store">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile Store Repository" />
 </a>
 
 </td>
@@ -142,48 +147,59 @@ An e-commerce platform for managing and selling mobile phones.
 
 <td width="50%" valign="top">
 
-## 🔧 Sanaa
+<h2>🔧 Sanaa</h2>
 
-A platform connecting customers with craftsmen and service providers.
+<p>
+A full-stack platform connecting customers with craftsmen and service providers.
+</p>
 
-### Features
+<h4>Features</h4>
 
-* 👤 Service provider profiles
-* 📅 Booking system
-* ⭐ Ratings
-* 📍 Location-based services
-* 🛠️ Admin management
+<ul>
+<li>👤 Service provider profiles</li>
+<li>📅 Booking system</li>
+<li>⭐ Ratings</li>
+<li>📍 Location-based services</li>
+<li>🛠️ Admin management</li>
+</ul>
 
-**Tech Stack**
-
-`ASP.NET Core` · `C#` · `SQL Server`
-
-<br>
+<p>
+<b>Tech:</b><br/>
+React · ASP.NET Core · C# · REST API · SQL Server
+</p>
 
 <a href="https://github.com/ahmedkamal-31/Sanna-project">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sanaa Repository" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🌐 Portfolio
+<h2>🌐 Personal Portfolio</h2>
 
-My personal developer portfolio showcasing my projects, skills, and experience.
+<p>
+A modern responsive portfolio website showcasing my projects, skills, and development journey.
+</p>
 
-**Built with**
+<h4>Built With</h4>
 
-`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Framer Motion`
+<ul>
+<li>⚛️ React</li>
+<li>📘 TypeScript</li>
+<li>⚡ Vite</li>
+<li>🎨 Tailwind CSS</li>
+<li>✨ Framer Motion</li>
+</ul>
 
-<br>
+<br/>
 
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-512BD4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Portfolio Live Demo" />
 </a>
 
 <a href="https://github.com/ahmedkamal-31/portfolio">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
 </a>
 
 </td>
@@ -197,13 +213,9 @@ My personal developer portfolio showcasing my projects, skills, and experience.
 
 <div align="center">
 
-| Area                      | Focus                             |
-| ------------------------- | --------------------------------- |
-| ⚙️ ASP.NET Core           | Advanced development & APIs       |
-| 🗄️ Entity Framework Core | Data access & optimization        |
-| 🏗️ Software Architecture | Clean & maintainable applications |
-| 🤖 AI                     | Generative AI & RAG Applications  |
-| ⚛️ React                  | Modern frontend development       |
+`Advanced ASP.NET Core` · `RESTful APIs` · `Entity Framework Core`
+
+`Software Architecture` · `Generative AI` · `RAG Applications`
 
 </div>
 
@@ -213,9 +225,9 @@ My personal developer portfolio showcasing my projects, skills, and experience.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedkamal-31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedkamal-31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkamal-31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkamal-31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -225,7 +237,7 @@ My personal developer portfolio showcasing my projects, skills, and experience.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmedkamal-31&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ahmedkamal-31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -233,7 +245,7 @@ My personal developer portfolio showcasing my projects, skills, and experience.
 
 # 🎯 Career Goal
 
-I'm currently looking for opportunities as a **Junior .NET Developer**, where I can contribute to real-world projects, strengthen my backend development skills, and grow as a professional software developer.
+I'm currently looking for opportunities as a **Junior .NET Developer**, where I can contribute to real-world projects, strengthen my backend development skills, and continue growing as a professional software developer.
 
 ---
 
@@ -242,15 +254,15 @@ I'm currently looking for opportunities as a **Junior .NET Developer**, where I 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-kamal-135b8b353/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="https://github.com/ahmedkamal-31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:ahmedkamal@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -259,8 +271,8 @@ I'm currently looking for opportunities as a **Junior .NET Developer**, where I 
 
 <div align="center">
 
-### 🚀 Building • Learning • Improving
+### 🚀 Building · Learning · Improving
 
-*Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
 
 </div>
