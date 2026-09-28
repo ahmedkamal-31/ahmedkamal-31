@@ -267,10 +267,9 @@ I'm currently looking for opportunities as a **Junior .NET Developer**, where I 
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkamal312005@gmail.com)
-  
-
+<a href="mailto:ahmedkamal312005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 ---
