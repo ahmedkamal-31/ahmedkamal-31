@@ -4,7 +4,12 @@
 
 ### 💻 Junior .NET Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Always+Learning+%26+Improving+🚀" alt="Typing SVG" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=700&lines=ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Full+Stack+Web+Developer;Building+Practical+Web+Applications;Always+Learning+%26+Improving"
+    alt="Typing SVG"
+  />
+</p>
 
 <p>
   <a href="https://portfolio-kappa-lake-83.vercel.app/">
