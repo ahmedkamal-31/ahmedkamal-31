@@ -268,9 +268,8 @@ I'm currently looking for opportunities as a **Junior .NET Developer**, where I 
   <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<a href="mailto:ahmedkamal312005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedkamal312005@gmail.com)
+  
 
 </div>
 
