@@ -225,18 +225,17 @@ A modern responsive portfolio website showcasing my projects, skills, and develo
 
 <div align="center">
 
-<a href="https://github.com/ahmedkamal-31">
-  <img src="https://img.shields.io/github/followers/ahmedkamal-31?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers" />
-</a>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=ahmedkamal-31&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Ahmed Kamal GitHub Stats"
+/>
 
-<a href="https://github.com/ahmedkamal-31?tab=repositories">
-  <img src="https://img.shields.io/github/stars/ahmedkamal-31?label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-</a>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedkamal-31&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
-<a href="https://github.com/ahmedkamal-31?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-</a>
-
+</div>
 </div>
 
 ---
