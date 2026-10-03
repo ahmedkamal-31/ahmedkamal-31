@@ -73,7 +73,7 @@ I enjoy turning ideas into real applications and working with:
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,vite" alt="Tools" />
 </p>
 
----
+----
 
 # 🚀 Featured Projects
 
