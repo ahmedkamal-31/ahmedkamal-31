@@ -147,7 +147,9 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <a href="https://github.com/ahmedkamal-31/mobile-store">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile Store Repository" />
 </a>
-
+<a href="http://mobile-store.somee.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="mobile-store Live Demo" />
+</a>
 </td>
 
 </tr>
