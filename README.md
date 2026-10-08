@@ -30,16 +30,17 @@ I'm a **Computer Science student at Assiut University** and a Junior .NET Develo
 
 My main focus is backend and full-stack development with **C#, ASP.NET Core, Entity Framework Core, SQL Server, and REST APIs**, along with modern frontend interfaces built with **React and TypeScript**.
 
-```csharp
-var ahmed = new Developer
-{
-    Role      = "Junior .NET Developer",
-    Education = "Computer Science, Assiut University",
-    Focus     = new[] { "ASP.NET Core", "EF Core", "SQL Server", "REST APIs", "React" },
-    Learning  = new[] { "Advanced ASP.NET Core", "Software Architecture", "RAG Applications" },
-    OpenToWork = true
-};
-```
+<div align="center">
+
+| | |
+| :--- | :--- |
+| 🎯 **Role** | Junior .NET Developer |
+| 🎓 **Education** | Computer Science, Assiut University |
+| 🧠 **Focus** | ASP.NET Core · EF Core · SQL Server · REST APIs · React |
+| 📚 **Learning** | Advanced ASP.NET Core · Software Architecture · RAG Applications |
+| 💼 **Status** | ✅ Open to work |
+
+</div>
 
 **What I enjoy working on**
 
@@ -176,15 +177,24 @@ var ahmed = new Developer
 
 <h3>🪑 FurniCraft</h3>
 
-<!-- TODO: replace the description and tech below with the real details of your FurniCraft repo -->
-<p>A furniture shop web application.</p>
+<p>A full-stack furniture e-commerce web application with an Arabic (RTL) interface, built with ASP.NET Core MVC.</p>
 
-<p><b>Tech:</b> React · Tailwind CSS</p>
+<ul>
+<li>🛋️ Product catalog with categories</li>
+<li>🔎 Product details pages</li>
+<li>🛒 Shopping cart</li>
+<li>🔐 User registration & login</li>
+<li>💵 Cash on delivery checkout</li>
+<li>🏗️ Layered structure: Controllers, Services, ViewModels, EF Core migrations</li>
+</ul>
 
-<br/><br/><br/><br/>
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
 
-<a href="https://github.com/ahmedkamal-31/furnicraft">
+<a href="https://github.com/ahmedkamal-31/FurniCraft">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FurniCraft Repository" />
+</a>
+<a href="http://furnicraft-ahmed-kamal.runasp.net/">
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="FurniCraft Live Demo" />
 </a>
 
 </td>
