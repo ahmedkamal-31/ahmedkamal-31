@@ -9,6 +9,9 @@
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-512BD4?style=for-the-badge" alt="Portfolio" />
 </a>
+<a href="https://github.com/ahmedkamal-31/ahmedkamal-31/raw/main/assets/Ahmed_Kamal_CV.pdf">
+  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-2EA44F?style=for-the-badge" alt="Download CV" />
+</a>
 <a href="https://www.linkedin.com/in/ahmed-kamal-135b8b353/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -73,8 +76,8 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <tr>
 <td align="center"><b>🎨 Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,html,css" alt="Frontend" /><br/>
-<sub>React · TypeScript · Tailwind CSS · Framer Motion</sub>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,bootstrap,html,css" alt="Frontend" /><br/>
+<sub>React · TypeScript · Tailwind CSS · Bootstrap · Framer Motion</sub>
 </td>
 </tr>
 <tr>
@@ -87,7 +90,7 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <tr>
 <td align="center"><b>🧰 Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,docker,vercel" alt="Tools" />
 </td>
 </tr>
 </table>
@@ -103,17 +106,19 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <td width="50%" valign="top">
 
+<a href="http://luxury-car-rental.runasp.net/">
+<img src="assets/projects/luxury-car-rental.png" alt="Luxury Car Rental screenshot" width="100%" />
+</a>
+
 <h3>🚗 Luxury Car Rental</h3>
 
-<p>A premium car rental web application built with ASP.NET Core MVC.</p>
+<p>A full-stack luxury car rental platform where customers browse premium vehicles and submit bookings, and admins manage everything from a dedicated admin area.</p>
 
 <ul>
-<li>🚘 Car management</li>
-<li>📅 Booking system</li>
-<li>🛠️ Admin dashboard</li>
-<li>🖼️ Image management</li>
-<li>🔐 Authentication & authorization</li>
-<li>👤 Customer booking management</li>
+<li>🚘 Car catalog with detailed specs (price, engine, seats, transmission)</li>
+<li>📅 Rental booking requests</li>
+<li>🛠️ Admin area: manage cars, images, and bookings</li>
+<li>🔐 ASP.NET Identity with role-based authorization</li>
 </ul>
 
 <p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · Identity</p>
@@ -122,24 +127,26 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Luxury Car Rental Repository" />
 </a>
 <a href="http://luxury-car-rental.runasp.net/">
-<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Luxury-Car-Rental Live Demo" />
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Luxury Car Rental Live Demo" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
+<a href="http://mobile-store.somee.com/">
+<img src="assets/projects/mobile-store.png" alt="Mobile Store screenshot" width="100%" />
+</a>
+
 <h3>📱 Mobile Store</h3>
 
-<p>An e-commerce platform for managing and selling mobile phones.</p>
+<p>An e-commerce platform for selling mobile phones, with a dedicated seller portal and strict seller-level data isolation.</p>
 
 <ul>
-<li>📦 Product management</li>
-<li>👨‍💼 Seller portal</li>
-<li>🔐 Role-based authorization</li>
-<li>🔎 Product search</li>
-<li>🔔 Notifications</li>
-<li>👤 Seller-specific products</li>
+<li>🔎 Product browsing, search, and details</li>
+<li>👨‍💼 Seller dashboard: add, edit, delete products and images</li>
+<li>🔐 Identity, roles, and protected seller pages</li>
+<li>🔔 Notifications and user-friendly feedback messages</li>
 </ul>
 
 <p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · Identity</p>
@@ -148,8 +155,9 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile Store Repository" />
 </a>
 <a href="http://mobile-store.somee.com/">
-<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="mobile-store Live Demo" />
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Mobile Store Live Demo" />
 </a>
+
 </td>
 
 </tr>
@@ -158,39 +166,20 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <td width="50%" valign="top">
 
-<h3>🔧 Sanaa</h3>
-
-<p>A full-stack platform connecting customers with craftsmen and service providers.</p>
-
-<ul>
-<li>👤 Service provider profiles</li>
-<li>📅 Booking system</li>
-<li>⭐ Ratings</li>
-<li>📍 Location-based services</li>
-<li>🛠️ Admin management</li>
-</ul>
-
-<p><b>Tech:</b> React · ASP.NET Core · C# · REST API · SQL Server</p>
-
-<a href="https://github.com/ahmedkamal-31/Sanna-project">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sanaa Repository" />
+<a href="https://github.com/ahmedkamal-31/FurniCraft">
+<img src="assets/projects/furnicraft.png" alt="FurniCraft screenshot" width="100%" />
 </a>
-
-</td>
-
-<td width="50%" valign="top">
 
 <h3>🪑 FurniCraft</h3>
 
-<p>A full-stack furniture e-commerce web application with an Arabic (RTL) interface, built with ASP.NET Core MVC.</p>
+<p>A furniture e-commerce web application with an Arabic (RTL) interface, built with ASP.NET Core MVC.</p>
 
 <ul>
-<li>🛋️ Product catalog with categories</li>
+<li>🛋️ Product catalog organized by categories</li>
 <li>🔎 Product details pages</li>
 <li>🛒 Shopping cart</li>
 <li>🔐 User registration & login</li>
 <li>💵 Cash on delivery checkout</li>
-<li>🏗️ Layered structure: Controllers, Services, ViewModels, EF Core migrations</li>
 </ul>
 
 <p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
@@ -204,11 +193,40 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 </td>
 
+<td width="50%" valign="top">
+
+<a href="https://github.com/ahmedkamal-31/Sanna-project">
+<img src="assets/projects/sanaa.png" alt="Sanaa screenshot" width="100%" />
+</a>
+
+<h3>🔧 Sanaa</h3>
+
+<p>A platform connecting customers with service providers, built with a structured MVC architecture and real-time communication.</p>
+
+<ul>
+<li>📡 Real-time communication with SignalR hubs</li>
+<li>🧩 Custom middleware for request processing</li>
+<li>🗄️ EF Core Code First with SQL Server</li>
+<li>🚀 Deployed on Railway</li>
+</ul>
+
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Bootstrap</p>
+
+<a href="https://github.com/ahmedkamal-31/Sanna-project">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sanaa Repository" />
+</a>
+
+</td>
+
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
+
+<a href="https://portfolio-kappa-lake-83.vercel.app/">
+<img src="assets/projects/portfolio.png" alt="Portfolio screenshot" width="100%" />
+</a>
 
 <h3>🌐 Personal Portfolio</h3>
 
@@ -271,9 +289,12 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <img src="https://streak-stats.demolab.com?user=ahmedkamal-31&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedkamal-31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedkamal-31/ahmedkamal-31/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ahmedkamal-31/ahmedkamal-31/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -294,6 +315,9 @@ I'm looking for a **Junior .NET Developer** role where I can contribute to real-
 </a>
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/ahmedkamal-31/ahmedkamal-31/raw/main/assets/Ahmed_Kamal_CV.pdf">
+  <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
 <a href="mailto:ahmedkamal312005@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
