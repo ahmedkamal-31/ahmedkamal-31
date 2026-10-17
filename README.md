@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmedkamal-31&label=Profile%20Views&color=512BD4&style=flat-square" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ahmedkamal-31.ahmedkamal-31&left_text=Profile%20Views&left_color=gray&right_color=512BD4" alt="Profile Views" />
 
 </div>
 
