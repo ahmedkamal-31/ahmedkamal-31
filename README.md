@@ -209,7 +209,10 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
 
 <a href="https://github.com/ahmedkamal-31/FurniCraft">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FurniCraft Repository" />
+<img width="2752" height="1536" alt="Gemini_Generated_Image_4hn25k4hn25k4hn2" src="https://github.com/user-attachments/assets/66831f23-1697-477e-8026-afc499d510f0" alt="FurniCraft Repository" />
+
+  
+
 </a>
 <a href="http://furnicraft-ahmed-kamal.runasp.net/">
 <img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="FurniCraft Live Demo" />
