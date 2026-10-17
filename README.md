@@ -223,8 +223,10 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <td width="50%" valign="top">
 
 <a href="https://github.com/ahmedkamal-31/Sanna-project">
-<img src="assets/projects/sanaa.png" alt="Sanaa screenshot" width="100%" />
 </a>
+
+
+
 
 <h3>🔧 Sanaa</h3>
 
