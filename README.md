@@ -47,11 +47,11 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 **What I enjoy working on**
 
-* 🔐 Authentication & Authorization
-* 🗄️ Database Design & Management
-* 🔌 RESTful APIs & CRUD Operations
-* 🏗️ Backend Architecture
-* 🎨 Responsive Web Interfaces
+- 🔐 Authentication & Authorization
+- 🗄️ Database Design & Management
+- 🔌 RESTful APIs & CRUD Operations
+- 🏗️ Backend Architecture
+- 🎨 Responsive Web Interfaces
 
 ---
 
@@ -102,7 +102,35 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
+<td width="50%" valign="top">
+
+<a href="https://dev-scope-nu.vercel.app">
+<img src="https://github.com/user-attachments/assets/ca4d7eeb-5212-4ee1-bc71-602e14fe2ff0" alt="DevScope screenshot" width="100%" />
+</a>
+
+<h3>🔍 DevScope</h3>
+
+<p>A full-stack web application to explore GitHub developers' profiles and real-time activities seamlessly.</p>
+
+<ul>
+<li>📊 Real-time developer data & analytics</li>
+<li>🔐 GitHub OAuth 2.0 authentication</li>
+<li>🚀 Rate limit bypass (5,000 requests/hr)</li>
+<li>🛡️ Secure proxy architecture to handle CORS</li>
+</ul>
+
+<p><b>Tech:</b> React · Vite · ASP.NET Core Web API · GitHub REST API</p>
+
+<a href="https://github.com/ahmedkamal-31/DevScope">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevScope Repository" />
+</a>
+<a href="https://dev-scope-nu.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="DevScope Live Demo" />
+</a>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -115,13 +143,13 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <p>A full-stack luxury car rental platform where customers browse premium vehicles and submit bookings, and admins manage everything from a dedicated admin area.</p>
 
 <ul>
-<li>🚘 Car catalog with detailed specs (price, engine, seats, transmission)</li>
+<li>🚘 Car catalog with detailed specs</li>
 <li>📅 Rental booking requests</li>
 <li>🛠️ Admin area: manage cars, images, and bookings</li>
 <li>🔐 ASP.NET Identity with role-based authorization</li>
 </ul>
 
-<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · Identity</p>
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server</p>
 
 <a href="https://github.com/ahmedkamal-31/Luxury-Car-Rental">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Luxury Car Rental Repository" />
@@ -131,7 +159,9 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <a href="http://mobile-store.somee.com/">
@@ -144,12 +174,12 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <ul>
 <li>🔎 Product browsing, search, and details</li>
-<li>👨‍💼 Seller dashboard: add, edit, delete products and images</li>
+<li>👨‍💼 Seller dashboard: add, edit, delete products</li>
 <li>🔐 Identity, roles, and protected seller pages</li>
-<li>🔔 Notifications and user-friendly feedback messages</li>
+<li>🔔 Notifications and feedback messages</li>
 </ul>
 
-<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · Identity</p>
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server</p>
 
 <a href="https://github.com/ahmedkamal-31/mobile-store">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mobile Store Repository" />
@@ -159,10 +189,6 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -179,7 +205,6 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <li>🔎 Product details pages</li>
 <li>🛒 Shopping cart</li>
 <li>🔐 User registration & login</li>
-<li>💵 Cash on delivery checkout</li>
 </ul>
 
 <p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
@@ -192,7 +217,9 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/ahmedkamal-31/Sanna-project">
@@ -207,20 +234,15 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <li>📡 Real-time communication with SignalR hubs</li>
 <li>🧩 Custom middleware for request processing</li>
 <li>🗄️ EF Core Code First with SQL Server</li>
-<li>🚀 Deployed on Railway</li>
 </ul>
 
-<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SQL Server · SignalR · Bootstrap</p>
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · SignalR</p>
 
 <a href="https://github.com/ahmedkamal-31/Sanna-project">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sanaa Repository" />
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -232,7 +254,7 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <p>A modern, responsive portfolio showcasing my projects, skills, and development journey.</p>
 
-<p><b>Built with:</b> ⚛️ React · 📘 TypeScript · ⚡ Vite · 🎨 Tailwind CSS · ✨ Framer Motion</p>
+<p><b>Built with:</b> ⚛️ React · 📘 TypeScript · ⚡ Vite · 🎨 Tailwind CSS</p>
 
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Portfolio Live Demo" />
@@ -242,23 +264,21 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 </a>
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
-
+<tr>
+<td colspan="2" valign="top">
 <h3>📂 More Projects</h3>
-
 <ul>
 <li>📊 <a href="https://github.com/ahmedkamal-31/Customer-Analytics-Dashboard">Customer Analytics Dashboard</a> (Python)</li>
 <li>🎮 <a href="https://github.com/ahmedkamal-31/LUGX-Games">LUGX Games</a>, a gaming site front end (HTML/CSS)</li>
 </ul>
-
 <a href="https://github.com/ahmedkamal-31?tab=repositories">
 <img src="https://img.shields.io/badge/All%20Repositories-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
 </a>
-
 </td>
-
 </tr>
+
 </table>
 
 ---
