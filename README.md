@@ -223,6 +223,9 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <td width="50%" valign="top">
 
 <a href="https://github.com/ahmedkamal-31/Sanna-project">
+<img width="2752" height="1536" alt="Gemini_Generated_Image_4hn25k4hn25k4hn2" src="https://github.com/user-attachments/assets/89b992c2-e49f-48b2-bb0b-47c7c8a19d82" />
+
+  
 </a>
 
 
