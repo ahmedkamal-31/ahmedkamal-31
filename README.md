@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0A66C2&height=210&section=header&text=Ahmed%20Kamal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Junior%20.NET%20Developer&descSize=22&descAlignY=58" alt="Header" width="100%" />
 
