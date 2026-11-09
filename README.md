@@ -263,7 +263,7 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 
 <a href="https://github.com/ahmedkamal-31/portfolio">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
 </a>
 
 <a href="https://portfolio-kappa-lake-83.vercel.app/">
