@@ -261,11 +261,13 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 
 <p><b>Built with:</b> ⚛️ React · 📘 TypeScript · ⚡ Vite · 🎨 Tailwind CSS</p>
 
-<a href="https://portfolio-kappa-lake-83.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Portfolio Live Demo" />
-</a>
+
 <a href="https://github.com/ahmedkamal-31/portfolio">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
+</a>
+
+<a href="https://portfolio-kappa-lake-83.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="Portfolio Live Demo" />
 </a>
 
 </td>
