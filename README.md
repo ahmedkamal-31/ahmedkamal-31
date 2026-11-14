@@ -110,6 +110,42 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <img src="https://github.com/user-attachments/assets/ca4d7eeb-5212-4ee1-bc71-602e14fe2ff0" alt="DevScope screenshot" width="100%" />
 </a>
 
+
+
+<h3>🪑 FurniCraft</h3>
+
+<p>A furniture e-commerce web application with an Arabic (RTL) interface, built with ASP.NET Core MVC.</p>
+
+<ul>
+<li>🛋️ Product catalog organized by categories</li>
+<li>🔎 Product details pages</li>
+<li>🛒 Shopping cart</li>
+<li>🔐 User registration & login</li>
+</ul>
+
+<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
+
+<a href="https://github.com/ahmedkamal-31/FurniCraft">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FurniCraft Repository" />
+</a>
+<a href="http://furnicraft-ahmed-kamal.runasp.net/">
+<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="FurniCraft Live Demo" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/ahmedkamal-31/Sanna-project">
+<img width="2752" height="1536" alt="Gemini_Generated_Image_4hn25k4hn25k4hn2" src="https://github.com/user-attachments/assets/89b992c2-e49f-48b2-bb0b-47c7c8a19d82" />
+
+  
+</a>
+
+
+
 <h3>🔍 DevScope</h3>
 
 <p>A full-stack web application to explore GitHub developers' profiles and real-time activities seamlessly.</p>
@@ -196,37 +232,6 @@ My main focus is backend and full-stack development with **C#, ASP.NET Core, Ent
 <img src="assets/projects/furnicraft.png" alt="FurniCraft screenshot" width="100%" />
 </a>
 
-<h3>🪑 FurniCraft</h3>
-
-<p>A furniture e-commerce web application with an Arabic (RTL) interface, built with ASP.NET Core MVC.</p>
-
-<ul>
-<li>🛋️ Product catalog organized by categories</li>
-<li>🔎 Product details pages</li>
-<li>🛒 Shopping cart</li>
-<li>🔐 User registration & login</li>
-</ul>
-
-<p><b>Tech:</b> C# · ASP.NET Core MVC · EF Core · Razor Views</p>
-
-<a href="https://github.com/ahmedkamal-31/FurniCraft">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="FurniCraft Repository" />
-</a>
-<a href="http://furnicraft-ahmed-kamal.runasp.net/">
-<img src="https://img.shields.io/badge/Live%20Demo-512BD4?style=for-the-badge" alt="FurniCraft Live Demo" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/ahmedkamal-31/Sanna-project">
-<img width="2752" height="1536" alt="Gemini_Generated_Image_4hn25k4hn25k4hn2" src="https://github.com/user-attachments/assets/89b992c2-e49f-48b2-bb0b-47c7c8a19d82" />
-
-  
-</a>
 
 
 
